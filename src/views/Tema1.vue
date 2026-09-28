@@ -197,6 +197,8 @@
           figure
             img(src="@/assets/curso/tema1/img09.png", data-aos="zoom-in")
         .col-lg-8.order-2.order-lg-2.col-md-12.mb-4.mb-lg-0
+          h4.text-bold.mb-3 Ciclo de mejora continua en los programas de saneamiento
+
           SlyderF(columnas="col-lg-12 col-xl-6 col-md-12 col-sm-12 p-2")
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3

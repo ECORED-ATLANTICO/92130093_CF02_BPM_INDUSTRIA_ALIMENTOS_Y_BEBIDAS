@@ -297,6 +297,7 @@
                 img(src="@/assets/curso/tema3/img23.png", data-aos="zoom-in").mx-auto
 
 
+    h4.text-bold.mb-3 Rutas de contaminación cruzada en una planta de alimentos
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12.col-md-12.mb-0.mb-lg-0
         .bg-fondo-5.p-4
