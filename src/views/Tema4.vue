@@ -92,7 +92,7 @@
 
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-03 bg-color-nuevo").mb-0
           div(titulo="Crítico")
-            p.mb-0 Corresponde a un peligro inminente para la salud pública (ej. presencia de Listeria en una superficie en contacto con alimentos, ausencia de cloro residual en el agua o presencia de una plaga activa en el área de producción). Requiere la implementación inmediata de acciones correctivas.
+            p.mb-0 Corresponde a un peligro inminente para la salud pública (ej. presencia de <em>Listeria</em> en una superficie en contacto con alimentos, ausencia de cloro residual en el agua o presencia de una plaga activa en el área de producción). Requiere la implementación inmediata de acciones correctivas.
 
           div(titulo="Mayor")
             p.mb-0 Corresponde al incumplimiento significativo de un requisito normativo que podría generar un peligro para la inocuidad si no se controla oportunamente (ej. Procedimientos Operativos Estandarizados de Saneamiento (POES) no implementados, ausencia de registros críticos o grietas en paredes que favorecen la acumulación de suciedad).
@@ -134,25 +134,25 @@
         .bg-fondo-5.p-4
           SlyderA(tipo="b").bg-color-white.p-3.tarjeta
             .tarjeta.p-3.h-100.mb-0
-              p.mb-0 <b>Realizar un análisis de peligros:</b> Identificar todos los peligros potenciales (físicos, químicos y biológicos) asociados con cada etapa del proceso, desde la recepción de materias primas hasta la distribución. Posteriormente, se evalúan la probabilidad de ocurrencia y la gravedad de cada peligro para determinar cuáles son significativos y deben ser controlados mediante el plan HACCP.
+              p.mb-0 <b>Realizar un análisis de peligros:</b> identificar todos los peligros potenciales (físicos, químicos y biológicos) asociados con cada etapa del proceso, desde la recepción de materias primas hasta la distribución. Posteriormente, se evalúan la probabilidad de ocurrencia y la gravedad de cada peligro para determinar cuáles son significativos y deben ser controlados mediante el plan HACCP.
 
             .tarjeta.p-3.h-100.mb-0
-              p.mb-0 <b>Determinar los Puntos Críticos de Control (PCC):</b> Identificar los puntos, procedimientos o etapas del proceso en los que es posible aplicar una medida de control esencial para prevenir, eliminar o reducir un peligro significativo a un nivel aceptable. Por ejemplo, la pasteurización constituye un PCC para eliminar microorganismos patógenos en la leche, mientras que un detector de metales representa un PCC para controlar peligros físicos.
+              p.mb-0 <b>Determinar los Puntos Críticos de Control (PCC):</b> identificar los puntos, procedimientos o etapas del proceso en los que es posible aplicar una medida de control esencial para prevenir, eliminar o reducir un peligro significativo a un nivel aceptable. Por ejemplo, la pasteurización constituye un PCC para eliminar microorganismos patógenos en la leche, mientras que un detector de metales representa un PCC para controlar peligros físicos.
 
             .tarjeta.p-3.h-100.mb-0
-              p.mb-0 <b>Establecer los límites críticos:</b> Definir los criterios, expresados como valores máximos y/o mínimos medibles, que diferencian un producto aceptable de uno no aceptable en un punto crítico de control. Por ejemplo, una temperatura de 72 °C durante 15 segundos para el proceso de pasteurización o la detección de partículas metálicas ferrosas de hasta 1,5 mm.
+              p.mb-0 <b>Establecer los límites críticos:</b> definir los criterios, expresados como valores máximos y/o mínimos medibles, que diferencian un producto aceptable de uno no aceptable en un punto crítico de control. Por ejemplo, una temperatura de 72 °C durante 15 segundos para el proceso de pasteurización o la detección de partículas metálicas ferrosas de hasta 1,5 mm.
 
             .tarjeta.p-3.h-100.mb-0
-              p.mb-0 <b>Establecer un sistema de monitoreo:</b> Definir los métodos, la frecuencia y los responsables del monitoreo de cada punto crítico de control, así como el registro de los valores obtenidos durante el proceso.
+              p.mb-0 <b>Establecer un sistema de monitoreo:</b> definir los métodos, la frecuencia y los responsables del monitoreo de cada punto crítico de control, así como el registro de los valores obtenidos durante el proceso.
 
             .tarjeta.p-3.h-100.mb-0
-              p.mb-0 <b>Establecer las acciones correctivas:</b> Determinar las acciones que deben implementarse cuando el monitoreo evidencia que un punto crítico de control se encuentra fuera de los límites críticos establecidos. Estas acciones incluyen la identificación y disposición del producto afectado, así como la eliminación de la causa de la desviación.
+              p.mb-0 <b>Establecer las acciones correctivas:</b> determinar las acciones que deben implementarse cuando el monitoreo evidencia que un punto crítico de control se encuentra fuera de los límites críticos establecidos. Estas acciones incluyen la identificación y disposición del producto afectado, así como la eliminación de la causa de la desviación.
 
             .tarjeta.p-3.h-100.mb-0
-              p.mb-0 <b>Establecer los procedimientos de verificación:</b> Definir las actividades que permitan confirmar que el Sistema HACCP funciona de manera eficaz. Entre ellas se encuentran las auditorías internas, la revisión de las quejas de los clientes, la calibración de los equipos de monitoreo y el muestreo o análisis del producto terminado.
+              p.mb-0 <b>Establecer los procedimientos de verificación:</b> definir las actividades que permitan confirmar que el Sistema HACCP funciona de manera eficaz. Entre ellas se encuentran las auditorías internas, la revisión de las quejas de los clientes, la calibración de los equipos de monitoreo y el muestreo o análisis del producto terminado.
 
             .tarjeta.p-3.h-100.mb-0
-              p.mb-0 <b>Establecer un sistema de documentación y registro:</b> Mantener documentados el análisis de peligros, los procedimientos del sistema HACCP y todos los registros generados durante la implementación y el seguimiento de cada uno de sus principios.
+              p.mb-0 <b>Establecer un sistema de documentación y registro:</b> mantener documentados el análisis de peligros, los procedimientos del sistema HACCP y todos los registros generados durante la implementación y el seguimiento de cada uno de sus principios.
 
     
   
@@ -352,11 +352,11 @@
           .titulo-sexto.color-acento-contenido.mb-4
             h5.mb-2.text-bold Figura 5.
             span Metodología de los 5 porqués para análisis de causa raíz
-          img.mb-2.d-none.d-lg-flex(data-aos="fade-up", src="@/assets/curso/tema4/img26.svg", alt="La figura 5, describe la metodología de los 5 porqués en el análisis de causa raíz, primero definiendo el problema, después preguntándose 5 veces porque, y finalmente resaltar la causa raíz y su respectiva acción a resolver el problema.").mx-auto
-          img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema4/img27.svg", alt="La figura 5, describe la metodología de los 5 porqués en el análisis de causa raíz, primero definiendo el problema, después preguntándose 5 veces porque, y finalmente resaltar la causa raíz y su respectiva acción a resolver el problema.").mx-auto
+          img.mb-2.d-none.d-lg-flex(data-aos="fade-up", src="@/assets/curso/tema4/img26.svg", alt="Diagrama vertical de análisis de causa raíz mediante la metodología de los 5 porqués. En la parte superior, un recuadro naranja titulado “Problema” indica: “Superficie sucia post-limpieza.” A continuación, cinco recuadros verdes muestran la secuencia de causas: ¿Por qué 1? Porque el desinfectante no hizo efecto. ¿Por qué 2? Porque la concentración era muy baja. ¿Por qué 3? Porque el operario no midió bien. ¿Por qué 4? Porque no tenía dosificador. ¿Por qué 5? Porque el dosificador se dañó y no se reemplazó. Al final, un recuadro rojo titulado “Causa raíz” concluye: “Falta de reposición de dosificadores. Acción: Reemplazar dosificador y capacitar. Verificar en 1 mes.” Los recuadros están conectados por una línea vertical con marcadores circulares, indicando la secuencia lógica del análisis.").mx-auto
+          img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema4/img27.svg", alt="Diagrama vertical de análisis de causa raíz mediante la metodología de los 5 porqués. En la parte superior, un recuadro naranja titulado “Problema” indica: “Superficie sucia post-limpieza.” A continuación, cinco recuadros verdes muestran la secuencia de causas: ¿Por qué 1? Porque el desinfectante no hizo efecto. ¿Por qué 2? Porque la concentración era muy baja. ¿Por qué 3? Porque el operario no midió bien. ¿Por qué 4? Porque no tenía dosificador. ¿Por qué 5? Porque el dosificador se dañó y no se reemplazó. Al final, un recuadro rojo titulado “Causa raíz” concluye: “Falta de reposición de dosificadores. Acción: Reemplazar dosificador y capacitar. Verificar en 1 mes.” Los recuadros están conectados por una línea vertical con marcadores circulares, indicando la secuencia lógica del análisis.").mx-auto
           figcaption Nota. SENA, (2026). 
 
-    p.mb-5 Para complementar los contenidos abordados sobre el diagnóstico sanitario, los principios del Sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP) y la implementación de medidas preventivas, se invita a escuchar el siguiente pódcast. Este recurso permite reforzar la importancia del análisis de riesgos, la aplicación de acciones correctivas y preventivas, y el fortalecimiento de la mejora continua como elementos fundamentales para garantizar la inocuidad en la industria alimentaria.
+    p.mb-5 Para complementar los contenidos abordados sobre el diagnóstico sanitario, los principios del Sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP) y la implementación de medidas preventivas, se invita a consultar el siguiente pódcast. Este recurso permite reforzar la importancia del análisis de riesgos, la aplicación de acciones correctivas y preventivas, y el fortalecimiento de la mejora continua como elementos fundamentales para garantizar la inocuidad en la industria alimentaria.
 
     .container
       .row.justify-content-center.align-items-center.mb-3
@@ -367,9 +367,9 @@
                 img(src="@/assets/curso/tema2/img55.png", data-aos="fade-right").w-md-75.mx-auto
             .col-lg-7.order-1.order-md-1.order-lg-2.p-4.p-lg-3
               h4 ¿Sabías qué?
-              p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente podcast:
+              //- p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente <em>podcast</em>:
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Podcast pendiente"
+                texto="Peligros en alimentos y medidas preventivas."
                 tiempo
                 :audio="require_src('@/assets/curso/audio/2.mp3')"
               )

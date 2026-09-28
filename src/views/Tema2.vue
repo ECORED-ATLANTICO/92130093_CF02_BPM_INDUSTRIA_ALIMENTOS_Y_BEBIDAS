@@ -106,7 +106,7 @@
           img(src="@/assets/curso/tema2/img09.png", data-aos="zoom-in")
       .col-lg-8.order-2.order-lg-1.mb-0.mb-lg-0
         .bg-color-0.p-4.br-15.mb-4
-          p.mb-0 Un programa de control de plagas efectivo es aquel que previene la entrada y la proliferación de insectos, roedores y aves, que son vectores de enfermedades y fuentes de contaminación física (pelos, excrementos, fragmentos de alas) y biológica (microorganismos patógenos como Salmonella). Su verificación debe ser tanto interna como externa y constante, basándose en un enfoque de Manejo Integrado de Plagas (MIP).
+          p.mb-0 Un programa de control de plagas efectivo es aquel que previene la entrada y la proliferación de insectos, roedores y aves, que son vectores de enfermedades y fuentes de contaminación física (pelos, excrementos, fragmentos de alas) y biológica (microorganismos patógenos como <em>Salmonella</em>). Su verificación debe ser tanto interna como externa y constante, basándose en un enfoque de Manejo Integrado de Plagas (MIP).
 
         p.mb-0 Para lograr este propósito. El control de plagas se basa en la combinación de diferentes tipos de barreras preventivas:
 
@@ -121,19 +121,19 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img11.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              p <b>Barreras físicas</b>: Son la primera y más importante línea de defensa. Incluyen: mosquiteros en ventanas, cortinas de aire en puertas de acceso, sellos en puertas y ventanas, tapones en tuberías y drenajes, y mantenimiento de la estructura para eliminar grietas y huecos.
+              p <b>Barreras físicas</b>: son la primera y más importante línea de defensa. Incluyen: mosquiteros en ventanas, cortinas de aire en puertas de acceso, sellos en puertas y ventanas, tapones en tuberías y drenajes, y mantenimiento de la estructura para eliminar grietas y huecos.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img12.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              p <b>Barreras químicas</b>: Se refieren al uso de plaguicidas (insecticidas, rodenticidas) de manera controlada y estratégica, generalmente en estaciones de cebo para roedores en el exterior y en trampas de luz ultravioleta con bandejas adhesivas para insectos voladores en el interior.
+              p <b>Barreras químicas</b>: se refieren al uso de plaguicidas (insecticidas, rodenticidas) de manera controlada y estratégica, generalmente en estaciones de cebo para roedores en el exterior y en trampas de luz ultravioleta con bandejas adhesivas para insectos voladores en el interior.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema2/img13.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              p <b>Barreras biológicas</b>: Son menos comunes en plantas de alimentos, pero pueden incluir el uso de feromonas para la confusión sexual de ciertos insectos.
+              p <b>Barreras biológicas</b>: son menos comunes en plantas de alimentos, pero pueden incluir el uso de feromonas para la confusión sexual de ciertos insectos.
 
     p.mb-5 La eficacia de esta medida debe evaluarse mediante actividades permanentes, de monitoreo y verificación tales como:
 
@@ -390,13 +390,13 @@
           .col-lg-8.mb-4.mb-lg-0
             AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-03 bg-color-nuevo")
               div(titulo="Monitoreo de cloro residual libre")
-                p.mb-0 Consiste en medir el cloro residual libre en los puntos de uso, como grifos, tanques de lavado y mangueras, diariamente o con la frecuencia establecida por la organización (generalmente cada cuatro horas en procesos de producción continua). El resultado debe encontrarse dentro del rango establecido por la normativa vigente (entre 0,3 y 2,0 ppm). Para esta actividad se emplean kits colorimétricos o tiras reactivas.
+                p.mb-0 Consiste en medir el cloro residual libre en los puntos de uso, como grifos, tanques de lavado y mangueras, diariamente o con la frecuencia establecida por la organización (generalmente cada cuatro horas en procesos de producción continua). El resultado debe encontrarse dentro del rango establecido por la normativa vigente (entre 0,3 y 2,0 ppm). Para esta actividad se emplean <em>kits</em> colorimétricos o tiras reactivas.
 
               div(titulo="Medición del pH")
                 p.mb-0 Consiste en determinar el pH del agua, ya que este parámetro puede influir en la eficacia de los desinfectantes y en la calidad de determinados productos. La medición se realiza mediante un pH-metro o tiras indicadoras.
 
               div(titulo="Análisis microbiológico y fisicoquímico")
-                p.mb-0 Consiste en tomar muestras de agua con la periodicidad establecida por la normativa vigente o el análisis de riesgos y remitirlas a un laboratorio acreditado por el IDEAM. El propósito es confirmar la ausencia de microorganismos indicadores, como coliformes totales y Escherichia coli, así como verificar parámetros fisicoquímicos, entre ellos turbiedad, color, olor, sólidos disueltos y metales pesados.
+                p.mb-0 Consiste en tomar muestras de agua con la periodicidad establecida por la normativa vigente o el análisis de riesgos y remitirlas a un laboratorio acreditado por el IDEAM. El propósito es confirmar la ausencia de microorganismos indicadores, como coliformes totales y <em>Escherichia coli</em>, así como verificar parámetros fisicoquímicos, entre ellos turbiedad, color, olor, sólidos disueltos y metales pesados.
 
 
           .col-lg-4.col-md-8.mb-0
@@ -713,7 +713,7 @@
           figcaption Nota. Elaboración propia, adaptada de la Resolución 2674 de 2013, el Decreto 60 de 2002 y las Buenas Prácticas de Manufactura (BPM).
     
 
-    p.mb-5 Con el propósito de fortalecer los conocimientos desarrollados sobre la verificación de los programas que soportan las condiciones de saneamiento, se invita a escuchar el siguiente pódcast. En este recurso se profundiza en la importancia de los programas de limpieza y desinfección, control de plagas, manejo de residuos, abastecimiento de agua, mantenimiento de instalaciones y demás actividades de verificación que contribuyen al aseguramiento de la inocuidad alimentaria y al cumplimiento de la normatividad sanitaria.
+    p.mb-5 Con el propósito de fortalecer los conocimientos desarrollados sobre la verificación de los programas que soportan las condiciones de saneamiento, se invita a consultar el siguiente pódcast. En este recurso se profundiza en la importancia de los programas de limpieza y desinfección, control de plagas, manejo de residuos, abastecimiento de agua, mantenimiento de instalaciones y demás actividades de verificación que contribuyen al aseguramiento de la inocuidad alimentaria y al cumplimiento de la normatividad sanitaria.
 
 
 
@@ -725,11 +725,11 @@
               figure
                 img(src="@/assets/curso/tema2/img55.png", data-aos="fade-right").w-md-75.mx-auto
             .col-lg-7.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-              p(data-aos="fade-left").mb-4 A continuación, se invita a ir al siguiente podcast: 
+              //- p(data-aos="fade-left").mb-4 A continuación, se invita a ir al siguiente <em>podcast</em>: 
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Podcast pendiente"
+                texto="Verificación de programas de saneamiento: POES, plagas y agua."
                 tiempo
-                :audio="require_src('@/assets/curso/audio/2.mp3')"
+                :audio="require_src('@/assets/curso/audio/1.mp3')"
               )
         .col-lg-5.col-md-10.order-lg-1.order-1.mb-4.mb-lg-0
           figure

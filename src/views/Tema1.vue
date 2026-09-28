@@ -39,8 +39,8 @@
           .titulo-sexto.color-acento-contenido.mb-4
             h5.text-bold.mb-2 Figura 1.
             span La pirámide de la inocuidad: programas de saneamiento como base
-          img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img04.png", alt="La figura 1 describe cómo los programas de saneamiento y las BPM son la base fundamental sobre la que se construyen sistemas más avanzados y se alcanza la competitividad.")
-          img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img04-mob.svg", alt="La figura 1 describe cómo los programas de saneamiento y las BPM son la base fundamental sobre la que se construyen sistemas más avanzados y se alcanza la competitividad.")
+          img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img04.png", alt="La pirámide presenta una estructura jerárquica de los elementos relacionados con la calidad y la inocuidad, desde las Buenas Prácticas de Manufactura (BPM) como base, seguidas de los programas de saneamiento, el sistema HACCP y la gestión de calidad total. En la parte superior se ubica la satisfacción del cliente y la competitividad como resultado de la implementación de estos elementos.")
+          img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img04-mob.svg", alt="La pirámide presenta una estructura jerárquica de los elementos relacionados con la calidad y la inocuidad, desde las Buenas Prácticas de Manufactura (BPM) como base, seguidas de los programas de saneamiento, el sistema HACCP y la gestión de calidad total. En la parte superior se ubica la satisfacción del cliente y la competitividad como resultado de la implementación de estos elementos.")
           figcaption Nota. SENA, (2026).
 
     separador
@@ -202,28 +202,28 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/img11.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              h4.text-center Planificar (Plan)
+              h4.text-center Planificar (<em>Plan</em>)
               p.text-center Establecer los objetivos y procedimientos del programa de saneamiento, incluyendo el programa escrito y los Procedimientos Operativos Estandarizados de Saneamiento (POES).
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/img12.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              h4.text-center Hacer (Do)
+              h4.text-center Hacer (<em>Do</em>)
               p.text-center Ejecutar las actividades de acuerdo con lo planificado y diligenciar los registros correspondientes.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/img13.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              h4.text-center Verificar (Check)
+              h4.text-center Verificar (<em>Check</em>)
               p.text-center Realizar verificaciones visuales, operacionales y analíticas, comparando los resultados con los criterios de aceptación establecidos.
 
             .tarjeta.tarjeta--blanca.shadow-sm.p-4.h-100
               .row.justify-content-center.mb-3
                 .col-8
                   img(src='@/assets/curso/tema1/img14.svg' alt='', style="width: 100px; height: 100px; ").mx-auto
-              h4.text-center Actuar (Act)
+              h4.text-center Actuar (<em>Act</em>)
               p.text-center Implementar acciones correctivas y preventivas para fortalecer el desempeño de los programas de saneamiento y promover la mejora continua.
 
 

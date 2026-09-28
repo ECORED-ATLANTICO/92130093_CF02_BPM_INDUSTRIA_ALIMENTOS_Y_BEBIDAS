@@ -27,7 +27,7 @@
           img(src="@/assets/curso/tema3/img02.png", data-aos="zoom-in")
       .col-lg-6.order-1.order-lg-1.mb-4.mb-lg-0
 
-        p.mb-4 La inocuidad alimentaria clasifica los peligros en tres categorías principales, de acuerdo con su naturaleza: físicos, químicos y biológicos. Esta clasificación	n constituye un referente internacional y representa la base para la implementación del sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP). Un mismo alimento puede estar expuesto a uno o varios tipos de peligros durante las diferentes etapas de la cadena alimentaria.
+        p.mb-4 La inocuidad alimentaria clasifica los peligros en tres categorías principales, de acuerdo con su naturaleza: físicos, químicos y biológicos. Esta clasificación constituye un referente internacional y representa la base para la implementación del sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP). Un mismo alimento puede estar expuesto a uno o varios tipos de peligros durante las diferentes etapas de la cadena alimentaria.
 
         .bg-color-0.p-4.br-15.mb-0
           p.mb-0 Los peligros físicos corresponden a materiales u objetos extraños que no deberían estar presentes en los alimentos y que pueden ocasionar lesiones al consumidor, como cortes en la cavidad oral, fracturas dentales, laceraciones en el tracto digestivo o asfixia. Entre las fuentes más comunes de este tipo de peligro se encuentran:
@@ -94,7 +94,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
         .bg-color-01.p-4.br-15
-          p.mb-0 <b>Medidas preventivas</b>: Instalación de imanes, detectores de metales, tamices y filtros; mantenimiento preventivo de equipos; inspección de materias primas; políticas estrictas sobre objetos personales y prohibición de madera en áreas de producción; uso de materiales irrompibles y protectores para iluminación.
+          p.mb-0 <b>Medidas preventivas</b>: instalación de imanes, detectores de metales, tamices y filtros; mantenimiento preventivo de equipos; inspección de materias primas; políticas estrictas sobre objetos personales y prohibición de madera en áreas de producción; uso de materiales irrompibles y protectores para iluminación.
 
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-04.p-3.p-sm-4.p-md-5.mb-5
@@ -172,8 +172,8 @@
                 figure
                   img(src="@/assets/curso/tema3/img18.png", data-aos="zoom-in").mx-auto
               .col-lg-7.order-1.mb-4.mb-lg-0
-                p.mb-3 Microorganismos unicelulares. Pueden ser patógenas (causan enfermedad) o saprofitas (descomponen el alimento). Algunas forman esporas resistentes al calor (ej. Clostridium botulinum, Bacillus cereus).
-                p.mb-0 <b>Ejemplos clave:</b> Salmonella, Listeria monocytogenes, Escherichia coli patógena (STEC), Campylobacter jejuni y Staphylococcus aureus (produce toxina).
+                p.mb-3 Microorganismos unicelulares. Pueden ser patógenas (causan enfermedad) o saprofitas (descomponen el alimento). Algunas forman esporas resistentes al calor (ej. <em>Clostridium botulinum</em>, <em>Bacillus cereus</em>).
+                p.mb-0 <b>Ejemplos clave:</b> <em>Salmonella</em>, <em>Listeria monocytogenes</em>, <em>Escherichia coli</em> patógena (STEC), <em>Campylobacter jejuni</em> y <em>Staphylococcus aureus</em> (produce toxina).
 
           div(titulo="Virus")
             .row.align-items-center.justify-content-center
@@ -182,7 +182,7 @@
                   img(src="@/assets/curso/tema3/img19.png", data-aos="zoom-in").mx-auto
               .col-lg-7.order-1.mb-4.mb-lg-0
                 p.mb-3 Más pequeños que las bacterias, necesitan una célula huésped para multiplicarse. No se multiplican en los alimentos, pero pueden sobrevivir en ellos. Se transmiten principalmente por contaminación fecal de manipuladores o agua.
-                p.mb-0 <b>Ejemplos clave:</b> virus de la hepatitis A, norovirus y rotavirus.
+                p.mb-0 <b>Ejemplos clave:</b> virus de la hepatitis A, <em>norovirus</em> y <em>rotavirus</em>.
 
           div(titulo="Parásitos")
             .row.align-items-center.justify-content-center
@@ -191,7 +191,7 @@
                   img(src="@/assets/curso/tema3/img20.png", data-aos="zoom-in").mx-auto
               .col-lg-7.order-1.mb-4.mb-lg-0
                 p.mb-3 Organismos que viven a expensas de otro organismo. Se ingieren a través de alimentos contaminados, principalmente carnes crudas o mal cocidas, pescado crudo o agua contaminada.
-                p.mb-0 <b>Ejemplos clave:</b> Taenia solium (solitaria), Trichinella spiralis, Cryptosporidium parvum y Toxoplasma gondii.
+                p.mb-0 <b>Ejemplos clave:</b> <em>Taenia solium</em> (solitaria), <em>Trichinella spiralis</em>, <em>Cryptosporidium parvum</em> y <em>Toxoplasma gondii</em>.
 
           div(titulo="Hongos y levaduras")
             .row.align-items-center.justify-content-center
@@ -235,9 +235,9 @@
                 td Carnes y pescados crudos o mal cocidos, agua.
               tr
                 td Ejemplo clave
-                td Salmonella en pollo.
+                td <em>Salmonella</em> en pollo.
                 td Hepatitis A en vegetales lavados con agua contaminada.
-                td Taenia solium en carne de cerdo mal cocida.
+                td <em>Taenia solium</em> en carne de cerdo mal cocida.
 
     separador
     
@@ -262,10 +262,10 @@
               span Una fruta contaminada con residuos de plaguicidas en el campo. 
             li.d-flex 
               i.fas.fa-circle-check.me-2
-              span Un pescado que contiene parásitos de forma natural (anisakis). 
+              span Un pescado que contiene parásitos de forma natural (<em>anisakis</em>). 
             li.d-flex 
               i.fas.fa-circle-check.me-2
-              span Un huevo contaminado con Salmonella desde el interior de la gallina. 
+              span Un huevo contaminado con <em>Salmonella</em> desde el interior de la gallina. 
             li.d-flex 
               i.fas.fa-circle-check.me-2
               span Granos que desarrollan micotoxinas debido a condiciones inadecuadas de humedad durante el cultivo o el almacenamiento primario. 
@@ -410,7 +410,7 @@
               img(src='@/assets/curso/tema3/img29.svg' alt='')
             .tarjeta.bg-color-01.h-100
               .px-2.py-3
-                p.mb-0.p-1 <b>Salmonella spp:</b> asociada a huevos crudos, pollo, carne, leche no pasteurizada, productos lácteos, vegetales contaminados. Causa salmonelosis: diarrea, fiebre, calambres abdominales.
+                p.mb-0.p-1 <b><em>Salmonella</em> spp:</b> asociada a huevos crudos, pollo, carne, leche no pasteurizada, productos lácteos, vegetales contaminados. Causa salmonelosis: diarrea, fiebre, calambres abdominales.
 
         .col-md-12.col-lg-10.col-xl-10.mb-4
           .tarjeta-avatar-b.h-100
@@ -418,7 +418,7 @@
               img(src='@/assets/curso/tema3/img29.svg' alt='')
             .tarjeta.bg-color-01.h-100
               .px-2.py-3
-                p.mb-0.p-1 <b>Listeria monocytogenes:</b> bacteria ambiental ubicua. Crece en refrigeración (psicotrofa). Asociada a lácteos no pasteurizados, carnes frías, patés, pescados ahumados, vegetales listos para consumo. Es especialmente peligrosa en embarazadas (abortos) y ancianos (meningitis).
+                p.mb-0.p-1 <b><em>Listeria monocytogenes</em>:</b> bacteria ambiental ubicua. Crece en refrigeración (psicotrofa). Asociada a lácteos no pasteurizados, carnes frías, patés, pescados ahumados, vegetales listos para consumo. Es especialmente peligrosa en embarazadas (abortos) y ancianos (meningitis).
 
         .col-md-12.col-lg-10.col-xl-10.mb-4
           .tarjeta-avatar-b.h-100
@@ -426,7 +426,7 @@
               img(src='@/assets/curso/tema3/img29.svg' alt='')
             .tarjeta.bg-color-01.h-100
               .px-2.py-3
-                p.mb-0.p-1 <b>Escherichia coli:</b> productor de toxina Shiga (STEC), como O157:H7: asociada a carne molida mal cocida, leche sin pasteurizar, jugos no pasteurizados, vegetales regados con agua contaminada. Causa diarrea con sangre y puede derivar en Síndrome Urémico Hemolítico (insuficiencia renal).
+                p.mb-0.p-1 <b><em>Escherichia coli</em>:</b> productor de toxina Shiga (STEC), como O157:H7: asociada a carne molida mal cocida, leche sin pasteurizar, jugos no pasteurizados, vegetales regados con agua contaminada. Causa diarrea con sangre y puede derivar en Síndrome Urémico Hemolítico (insuficiencia renal).
 
         .col-md-12.col-lg-10.col-xl-10.mb-4
           .tarjeta-avatar-b.h-100
@@ -434,7 +434,7 @@
               img(src='@/assets/curso/tema3/img29.svg' alt='')
             .tarjeta.bg-color-01.h-100
               .px-2.py-3
-                p.mb-0.p-1 <b>Campylobacter jejuni:</b> una de las causas más comunes de diarrea bacteriana. Asociada a pollo crudo o mal cocido, leche no pasteurizada, agua no tratada.
+                p.mb-0.p-1 <b><em>Campylobacter jejuni</em>:</b> una de las causas más comunes de diarrea bacteriana. Asociada a pollo crudo o mal cocido, leche no pasteurizada, agua no tratada.
 
         .col-md-12.col-lg-10.col-xl-10.mb-4
           .tarjeta-avatar-b.h-100
@@ -442,7 +442,7 @@
               img(src='@/assets/curso/tema3/img29.svg' alt='')
             .tarjeta.bg-color-01.h-100
               .px-2.py-3
-                p.mb-0.p-1 <b>Staphylococcus aureus:</b> bacteria que vive en la piel y fosas nasales humanas. Produce una toxina termoestable (resiste la cocción) en los alimentos si se dejan a temperatura ambiente. Asociada a alimentos manipulados por personas y luego mal refrigerados (ensaladas de papa, cremas, carnes frías). Causa vómitos violentos horas después del consumo.
+                p.mb-0.p-1 <b><em>Staphylococcus aureus</em>:</b> bacteria que vive en la piel y fosas nasales humanas. Produce una toxina termoestable (resiste la cocción) en los alimentos si se dejan a temperatura ambiente. Asociada a alimentos manipulados por personas y luego mal refrigerados (ensaladas de papa, cremas, carnes frías). Causa vómitos violentos horas después del consumo.
 
         .col-md-12.col-lg-10.col-xl-10.mb-4
           .tarjeta-avatar-b.h-100
@@ -450,7 +450,7 @@
               img(src='@/assets/curso/tema3/img29.svg' alt='')
             .tarjeta.bg-color-01.h-100
               .px-2.py-3
-                p.mb-0.p-1 <b>Clostridium botulinum:</b> bacteria formadora de esporas (resistentes al calor) que produce una toxina letal para el sistema nervioso (neurotoxina). Asociada a alimentos enlatados de baja acidez mal procesados (verduras, carnes, pescados), conservas caseras, miel (en bebés). Causa visión borrosa, parálisis muscular, fallo respiratorio.
+                p.mb-0.p-1 <b><em>Clostridium botulinum</em>:</b> bacteria formadora de esporas (resistentes al calor) que produce una toxina letal para el sistema nervioso (neurotoxina). Asociada a alimentos enlatados de baja acidez mal procesados (verduras, carnes, pescados), conservas caseras, miel (en bebés). Causa visión borrosa, parálisis muscular, fallo respiratorio.
 
         .col-md-12.col-lg-10.col-xl-10.mb-0
           .tarjeta-avatar-b.h-100
@@ -458,7 +458,7 @@
               img(src='@/assets/curso/tema3/img29.svg' alt='')
             .tarjeta.bg-color-01.h-100
               .px-2.py-3
-                p.mb-0.p-1 <b>Bacillus cereus:</b> bacteria formadora de esporas. Asociada a dos tipos de intoxicación: una diarreica (por verduras, carnes, salsas) y una emética (vómito, asociada a arroz recalentado).
+                p.mb-0.p-1 <b><em>Bacillus cereus</em>:</b> bacteria formadora de esporas. Asociada a dos tipos de intoxicación: una diarreica (por verduras, carnes, salsas) y una emética (vómito, asociada a arroz recalentado).
 
 
     .row.mb-5.justify-content-center.align-items-center
@@ -471,10 +471,10 @@
 
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-03 bg-color-nuevo").mb-0
           div(titulo="Virus")
-            p.mb-0 El virus de la Hepatitis A causa inflamación del hígado y se asocia a alimentos contaminados por manipuladores infectados (ej. ensaladas, sándwiches, frutas congeladas). El Norovirus es altamente contagioso y causa gastroenteritis aguda; se propaga rápidamente en lugares con alta densidad de personas (cruceros, restaurantes) a través de alimentos contaminados.
+            p.mb-0 El virus de la Hepatitis A causa inflamación del hígado y se asocia a alimentos contaminados por manipuladores infectados (ej. ensaladas, <em>sándwiches</em>, frutas congeladas). El <em>Norovirus</em> es altamente contagioso y causa gastroenteritis aguda; se propaga rápidamente en lugares con alta densidad de personas (cruceros, restaurantes) a través de alimentos contaminados.
 
           div(titulo="Parásitos")
-            p.mb-0 La Taenia solium (solitaria) se adquiere por consumo de carne de cerdo mal cocida. Trichinella spiralis se adquiere por consumo de carne de cerdo o de animales silvestres mal cocida. Cryptosporidium se asocia a agua contaminada y a vegetales frescos.
+            p.mb-0 La <em>Taenia solium</em> (solitaria) se adquiere por consumo de carne de cerdo mal cocida. <em>Trichinella spiralis</em> se adquiere por consumo de carne de cerdo o de animales silvestres mal cocida. <em>Cryptosporidium</em> se asocia a agua contaminada y a vegetales frescos.
 
 
     

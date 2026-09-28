@@ -20,10 +20,10 @@ export default {
       tema: 'Verificación, control y análisis de riesgos sanitarios',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> afianzar los conceptos fundamentales sobre factores de contaminación, programas de saneamiento y medidas preventivas en la industria de alimentos, mediante la resolución de un cuestionario de verdadero-falso con retroalimentación inmediata.',
+        '<b>Objetivo:</b> afianzar los conceptos fundamentales sobre factores de contaminación, programas de saneamiento y medidas preventivas en la industria de alimentos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       mensaje_aprobado:
         '¡Excelente! ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_reprobado:
@@ -59,7 +59,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los programas de saneamiento son el conjunto de actividades y procedimientos que mantienen las instalaciones, equipos y procesos en condiciones higiénicas óptimas, previniendo la contaminación de los alimentos.',
+            'Los programas de saneamiento son el conjunto de actividades y procedimientos que mantienen las instalaciones, equipos y procesos en condiciones higiénicas óptimas, previniendo la contaminación de los alimentos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -72,7 +72,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Programa de ventas y marketing.',
+              texto: 'Programa de ventas y <em>marketing</em>.',
               esCorrecta: false,
             },
             {
@@ -92,7 +92,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La Resolución 2674 de 2013 establece la obligatoriedad de implementar programas de limpieza y desinfección (POES), control de plagas, manejo de residuos, entre otros.',
+            'La Resolución 2674 de 2013 establece la obligatoriedad de implementar programas de limpieza y desinfección (POES), control de plagas, manejo de residuos, entre otros.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -128,7 +128,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El mantenimiento preventivo se planifica para evitar fallas antes de que ocurran, mientras que el correctivo se realiza cuando el equipo ya falló.',
+            'El mantenimiento preventivo se planifica para evitar fallas antes de que ocurran, mientras que el correctivo se realiza cuando el equipo ya falló.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -161,7 +161,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La verificación visual es la primera línea de control y consiste en inspeccionar que no haya residuos de alimentos, jabón o suciedad visible en las superficies.',
+            'La verificación visual es la primera línea de control y consiste en inspeccionar que no haya residuos de alimentos, jabón o suciedad visible en las superficies.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -194,7 +194,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Según la Resolución 2115 de 2007, el cloro residual libre en el agua para consumo humano debe estar entre 0.3 y 2.0 ppm para garantizar su potabilidad.',
+            'Según la Resolución 2115 de 2007, el cloro residual libre en el agua para consumo humano debe estar entre 0.3 y 2.0 ppm para garantizar su potabilidad.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -226,7 +226,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Las cáscaras de frutas y verduras son residuos orgánicos biodegradables, es decir, se descomponen naturalmente y pueden ser aprovechados para compostaje.',
+            'Las cáscaras de frutas y verduras son residuos orgánicos biodegradables, es decir, se descomponen naturalmente y pueden ser aprovechados para compostaje.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -260,7 +260,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los POES son documentos que describen paso a paso cómo, cuándo, dónde y con qué se deben realizar las tareas de limpieza y desinfección.',
+            'Los POES son documentos que describen paso a paso cómo, cuándo, dónde y con qué se deben realizar las tareas de limpieza y desinfección.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -273,7 +273,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Bacterias como la Salmonella.',
+              texto: 'Bacterias como la <em>Salmonella</em>.',
               esCorrecta: false,
             },
             {
@@ -293,7 +293,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Las virutas de metal son un peligro físico porque son objetos extraños que pueden causar lesiones al consumidor.',
+            'Las virutas de metal son un peligro físico porque son objetos extraños que pueden causar lesiones al consumidor.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -306,27 +306,27 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Escherichia coli.',
+              texto: '<em>Escherichia coli</em>.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Listeria monocytogenes.',
+              texto: '<em>Listeria monocytogenes</em>.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Salmonella spp.',
+              texto: '<em>Salmonella</em> spp.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Staphylococcus aureus.',
+              texto: '<em>Staphylococcus aureus</em>.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Correcto. Listeria monocytogenes es una bacteria psicotrofa, lo que significa que puede multiplicarse a temperaturas de refrigeración, lo que la hace especialmente peligrosa en productos listos para consumo.',
+            '<em>Listeria monocytogenes</em> es una bacteria psicotrofa, lo que significa que puede multiplicarse a temperaturas de refrigeración, lo que la hace especialmente peligrosa en productos listos para consumo.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -359,7 +359,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los virus como la Hepatitis A y el Norovirus se transmiten principalmente por manipuladores infectados que contaminan los alimentos al no lavarse las manos adecuadamente.',
+            'Los virus como la Hepatitis A y el <em>Norovirus</em> se transmiten principalmente por manipuladores infectados que contaminan los alimentos al no lavarse las manos adecuadamente.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -394,7 +394,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Un PCC es un punto específico donde el control es esencial para garantizar la inocuidad. No todos los puntos de control son PCC; muchos peligros se controlan mediante los programas de saneamiento (prerrequisitos).',
+            'Un PCC es un punto específico donde el control es esencial para garantizar la inocuidad. No todos los puntos de control son PCC; muchos peligros se controlan mediante los programas de saneamiento (prerrequisitos).',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -427,7 +427,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El método de los 5 Porqués es una herramienta simple pero poderosa que consiste en preguntar "¿por qué?" repetidamente hasta llegar a la causa fundamental del problema.',
+            'El método de los 5 Porqués es una herramienta simple pero poderosa que consiste en preguntar "¿por qué?" repetidamente hasta llegar a la causa fundamental del problema.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -460,7 +460,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los mosquiteros y las cortinas de aire son barreras físicas que impiden la entrada de plagas a las instalaciones.',
+            'Los mosquiteros y las cortinas de aire son barreras físicas que impiden la entrada de plagas a las instalaciones.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -493,7 +493,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los residuos de productos de limpieza que no son adecuadamente enjuagados constituyen un peligro químico, ya que pueden contaminar el alimento y causar intoxicaciones.',
+            'Los residuos de productos de limpieza que no son adecuadamente enjuagados constituyen un peligro químico, ya que pueden contaminar el alimento y causar intoxicaciones.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -527,7 +527,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El diagnóstico sanitario es una evaluación sistemática que permite conocer la situación actual de la empresa en materia de higiene e inocuidad, identificando fortalezas, debilidades y riesgos.',
+            'El diagnóstico sanitario es una evaluación sistemática que permite conocer la situación actual de la empresa en materia de higiene e inocuidad, identificando fortalezas, debilidades y riesgos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -560,7 +560,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los envases de plaguicidas y desinfectantes son residuos peligrosos porque contienen sustancias tóxicas que representan un riesgo para la salud y el ambiente.',
+            'Los envases de plaguicidas y desinfectantes son residuos peligrosos porque contienen sustancias tóxicas que representan un riesgo para la salud y el ambiente.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -594,7 +594,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El Decreto 60 de 2002 promueve la aplicación del HACCP y establece que los programas de saneamiento (prerrequisitos) son la base sobre la cual se construye dicho sistema.',
+            'El Decreto 60 de 2002 promueve la aplicación del HACCP y establece que los programas de saneamiento (prerrequisitos) son la base sobre la cual se construye dicho sistema.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -627,7 +627,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La zona de peligro está entre 5°C y 60°C, donde las bacterias pueden multiplicarse rápidamente en los alimentos si se mantienen a esas temperaturas por tiempo prolongado.',
+            'La zona de peligro está entre 5°C y 60°C, donde las bacterias pueden multiplicarse rápidamente en los alimentos si se mantienen a esas temperaturas por tiempo prolongado.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -660,7 +660,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Las BPM son los principios básicos y prácticas generales de higiene que se aplican en la manipulación, preparación, elaboración y almacenamiento de alimentos para garantizar su inocuidad.',
+            'Las BPM son los principios básicos y prácticas generales de higiene que se aplican en la manipulación, preparación, elaboración y almacenamiento de alimentos para garantizar su inocuidad.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -693,7 +693,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los programas de saneamiento son la primera y más importante barrera contra los peligros de contaminación. Actúan como la base sobre la cual se construyen sistemas más avanzados como el HACCP.',
+            'Los programas de saneamiento son la primera y más importante barrera contra los peligros de contaminación. Actúan como la base sobre la cual se construyen sistemas más avanzados como el HACCP.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
