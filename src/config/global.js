@@ -196,7 +196,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/92130093_CF02_DU.pdf',
+        download: 'downloads/92130093_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -381,7 +381,7 @@ export default {
       autores: [
         {
           nombre: 'Yina Paola Castro Zarate',
-          cargo: 'Experta temático',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
