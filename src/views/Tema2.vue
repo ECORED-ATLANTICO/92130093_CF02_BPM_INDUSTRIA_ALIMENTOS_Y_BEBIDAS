@@ -63,7 +63,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img06.png", alt="Hisopados microbiológicos")
+              img(src="@/assets/curso/tema2/img06.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Hisopados microbiológicos
             p.mb-0 Se toman muestras de áreas definidas (por ejemplo, 100 cm²) para realizar el recuento de microorganismos indicadores, como aerobios mesófilos, enterobacterias y coliformes, o para detectar microorganismos patógenos específicos.
@@ -72,7 +72,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img07.png", alt="Bioluminiscencia (ATP)")
+              img(src="@/assets/curso/tema2/img07.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Bioluminiscencia (ATP)
             p.mb-0 Utiliza un equipo que mide la cantidad de trifosfato de adenosina (ATP), molécula presente en todas las células vivas, incluidos los microorganismos y los residuos orgánicos. Un resultado superior a 100 Unidades Relativas de Luz (URL) indica la presencia de residuos orgánicos, lo que evidencia una limpieza deficiente.
@@ -97,7 +97,7 @@
     separador
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Programa de Control de Plagas
+      h2 2.2 Programa de control de plagas
 
       
     .row.mb-5.justify-content-center.align-items-center
@@ -175,7 +175,7 @@
       
     p.mb-5 La verificación de este programa inicia con la correcta clasificación y segregación de los residuos en el lugar donde se generan, de acuerdo con los procedimientos establecidos por la organización y la normativa aplicable.
 
-
+    h3.mb-4 Clasificación y segregación de residuos
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
@@ -299,29 +299,29 @@
     p.mb-5 Además de la adecuada segregación de los residuos, la verificación comprende la revisión de la infraestructura destinada a su manejo y de las frecuencias de recolección establecidas. Para ello, se deben considerar los siguientes aspectos:
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img22.png", alt="Recipientes")
+              img(src="@/assets/curso/tema2/img22.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Recipientes
             p.mb-0 Verificar que los contenedores de residuos se encuentren en buen estado (sin roturas y de fácil limpieza), dispongan de tapa con accionamiento no manual (pedal) y estén claramente identificados mediante colores o etiquetas, de acuerdo con el tipo de residuo.
 
-      .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img23.png", alt="Frecuencia de remoción")
+              img(src="@/assets/curso/tema2/img23.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Frecuencia de remoción
             p.mb-0 Verificar que los residuos sean retirados de las áreas de producción con la frecuencia necesaria para evitar su acumulación y la generación de malos olores. Como buena práctica, se recomienda que los residuos orgánicos no permanezcan dentro del establecimiento durante la noche, salvo que sean almacenados en un cuarto de refrigeración destinado específicamente para este fin.
 
-      .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img24.png", alt="Manejo de residuos líquidos (efluentes)")
+              img(src="@/assets/curso/tema2/img24.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Manejo de residuos líquidos (efluentes)
             p.mb-0 Comprobar que los pisos cuenten con la pendiente adecuada (mínimo 2 %) hacia los drenajes, que estos tengan la capacidad suficiente para evacuar el agua de manera eficiente y que dispongan de rejillas o trampas para la retención de sólidos y grasas. Asimismo, se debe verificar que las trampas de grasa sean limpiadas periódicamente y que esta actividad quede registrada en el formato de control correspondiente.
@@ -608,29 +608,29 @@
 
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img46.png", alt="Evaluaciones escritas o prácticas")
+              img(src="@/assets/curso/tema2/img46.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Evaluaciones escritas o prácticas
             p.mb-0.p-lg-0.p-1 Permiten valorar el nivel de comprensión alcanzado al finalizar las actividades de capacitación.
 
-      .col-xl-4.col-lg-6.col-md-12.col-12.mb-4.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-12.col-12.mb-4
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img47.png", alt="Observación directa de las actividades")
+              img(src="@/assets/curso/tema2/img47.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Observación directa de las actividades
             p.mb-0 Consiste en verificar que el personal aplique correctamente los procedimientos establecidos durante el desarrollo de sus funciones, como la técnica adecuada para el lavado de manos.
 
-      .col-xl-4.col-lg-6.col-md-12.col-12.mb-0.mb-xl-0
+      .col-xl-5.col-lg-6.col-md-12.col-12.mb-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema2/img48.png", alt="Indicadores de desempeño")
+              img(src="@/assets/curso/tema2/img48.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Indicadores de desempeño
             p.mb-0 Permiten monitorear aspectos como el número de no conformidades asociadas al incumplimiento de las Buenas Prácticas de Manufactura, por ejemplo, el uso inadecuado de la dotación o el incumplimiento de las normas de higiene personal.

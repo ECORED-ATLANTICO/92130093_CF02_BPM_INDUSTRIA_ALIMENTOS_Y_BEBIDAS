@@ -326,7 +326,7 @@ export default {
     {
       referencia:
         'Codex Alimentarius. (2009). <em>Higiene de los alimentos: Textos básicos (4.ª ed.)</em>. Organización de las Naciones Unidas para la Agricultura y la Alimentación y Organización Mundial de la Salud.',
-      link: 'https://www.fao.org/3/a1552s/a1552s00.htm',
+      link: 'https://openknowledge.fao.org/server/api/core/bitstreams/6e28e86b-cf11-466b-b997-6e943b9d6376/content',
     },
     {
       referencia:

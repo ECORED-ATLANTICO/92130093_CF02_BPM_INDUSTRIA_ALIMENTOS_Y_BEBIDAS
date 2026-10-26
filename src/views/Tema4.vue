@@ -171,7 +171,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img15.png", alt="Programas prerrequisito (PPR)")
+              img(src="@/assets/curso/tema4/img15.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Programas prerrequisito (PPR)
             p.mb-0 Corresponden a programas generales orientados a mantener condiciones higiénicas durante el proceso productivo y a controlar los peligros de manera preventiva. Se aplican a toda la organización. Algunos ejemplos son los Procedimientos Operativos Estandarizados de Saneamiento (POES), el programa de control de plagas y el programa de capacitación del personal.
@@ -180,7 +180,7 @@
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema4/img16.png", alt="Punto Crítico de Control (PCC)")
+              img(src="@/assets/curso/tema4/img16.png", alt="")
           .crd_hover_txt--body
             h4.mb-3.text-center Punto Crítico de Control (PCC)
             p.mb-0 Corresponde a una etapa específica del proceso en la que se aplica una medida de control esencial para prevenir, eliminar o reducir un peligro significativo hasta un nivel aceptable. Algunos ejemplos son un proceso de cocción para eliminar microorganismos patógenos o un detector de metales ubicado al final de la línea de producción.
