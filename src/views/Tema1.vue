@@ -25,7 +25,7 @@
         figure
           img(src="@/assets/curso/tema1/img03.png", data-aos="zoom-in")
       .col-lg-6
-        p.mb-0 Los programas de saneamiento son un conjunto de actividades, procedimientos y controles documentados que tienen como objetivo mantener las instalaciones, equipos y procesos en condiciones higiénicas óptimas, previniendo así la contaminación de los alimentos. Son considerados prerrequisitos, es decir, las condiciones y prácticas básicas que deben estar implementadas y funcionando correctamente antes de aplicar sistemas más complejos como el Análisis de Peligros y Puntos Críticos de Control (HACCP). La palabra «prerrequisit» es clave: sin ellos, no se puede construir nada sólido en materia de inocuidad.
+        p.mb-0 Los programas de saneamiento son un conjunto de actividades, procedimientos y controles documentados que tienen como objetivo mantener las instalaciones, equipos y procesos en condiciones higiénicas óptimas, previniendo así la contaminación de los alimentos. Son considerados prerrequisitos, es decir, las condiciones y prácticas básicas que deben estar implementadas y funcionando correctamente antes de aplicar sistemas más complejos como el Análisis de Peligros y Puntos Críticos de Control (HACCP). La palabra «prerrequisito» es clave: sin ellos, no se puede construir nada sólido en materia de inocuidad.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
