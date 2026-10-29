@@ -326,12 +326,12 @@ export default {
     {
       referencia:
         'Codex Alimentarius. (2009). <em>Higiene de los alimentos: Textos básicos (4.ª ed.)</em>. Organización de las Naciones Unidas para la Agricultura y la Alimentación y Organización Mundial de la Salud.',
-      link: 'https://openknowledge.fao.org/server/api/core/bitstreams/6e28e86b-cf11-466b-b997-6e943b9d6376/content  ',
+      link: 'https://www.fao.org/3/a1552s/a1552s00.htm',
     },
     {
       referencia:
         'Codex Alimentarius. (2020). <em>Principios generales de higiene de los alimentos (CXC 1-1969)</em>. Organización de las Naciones Unidas para la Agricultura y la Alimentación y Organización Mundial de la Salud.',
-      link: 'https://www.fao.org/fao-who-codexalimentarius/sh-proxy/es/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%252Fsites%252Fcodex%252FStandards%252FCXC%2B1-1969%252FCXC_001s.pdf',
+      link: 'https://openknowledge.fao.org/server/api/core/bitstreams/6e28e86b-cf11-466b-b997-6e943b9d6376/content',
     },
     {
       referencia:
